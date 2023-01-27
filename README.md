@@ -1,3 +1,4 @@
 # cot-4500-as1
-navigate to intro_to_python.py file directory using cd in command prompt
-to run, enter: python assignment_1.py
+# make sure SymPy is installed in the file environment!!
+# navigate to python file location in terminal using cd
+# type: python assignment_1.py
